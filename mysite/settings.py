@@ -26,7 +26,7 @@ SECRET_KEY = '8mga(5!yn*5d=(ndiaao(@h!luts1n7^+)b*sx4riwlg=t(3@@'
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['0.0.0.0']
+ALLOWED_HOSTS = []
 
 
 # Application definition
